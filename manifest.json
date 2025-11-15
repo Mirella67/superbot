@@ -1,0 +1,17 @@
+{
+  "name": "SuperBot",
+  "short_name": "SuperBot",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#667eea",
+  "theme_color": "#667eea",
+  "description": "SuperBot PWA - Assistente intelligente.",
+  "icons": [
+    {
+      "src": "/icon.css",
+      "sizes": "512x512",
+      "type": "text/css",
+      "purpose": "any"
+    }
+  ]
+}
